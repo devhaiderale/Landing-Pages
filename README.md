@@ -1,2 +1,2 @@
 # Landing-Pages
-A collection of clean, fast, and landing pages I’ve built. 
+A collection of clean & fast landing pages I’ve built. 
